@@ -1,5 +1,5 @@
 # Learning
-## Anything related to learning
+Anything related to learning
 
 ### BlackHatGo
 Tasks from the book BlackHatGo
