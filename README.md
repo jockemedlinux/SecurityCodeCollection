@@ -9,3 +9,6 @@ Tasks from the book BlackHatPython
 
 ### binary-exploitation-101
 Tasks from https://www.youtube.com/watch?v=wa3sMSdLyHw&list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94
+
+### coding_challenges
+challenges from https://pythonprinciples.com
